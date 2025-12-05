@@ -4,11 +4,6 @@ My name is **Pedro Amieba**, and I'm a **Junior Developer** from **Toledo**.
 
 ---
 
-## 🔍 Current Interests
-I’m currently very interested in **low-level programming**, **game hacking**, and **firmware development for PCI cards**, exploring how systems work at their core and improving my knowledge in architectures, drivers, and hardware–software communication.
-
----
-
 ## 🧠 Tech Stack
 
 ### 🖥️ Programming Languages
@@ -62,3 +57,6 @@ I’m currently very interested in **low-level programming**, **game hacking**, 
 </p>
 
 ---
+
+## 🔍 Current Interests
+I’m currently very interested in **low-level programming**, **game hacking**, and **firmware development for PCI cards**, exploring how systems work at their core and improving my knowledge in architectures, drivers, and hardware–software communication.
