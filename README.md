@@ -14,8 +14,6 @@ My name is **Pedro Amieba**, and I'm a **Junior Developer** from **Toledo**.
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" />
 </p>
 
@@ -53,6 +51,8 @@ My name is **Pedro Amieba**, and I'm a **Junior Developer** from **Toledo**.
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 </p>
 
 ---
