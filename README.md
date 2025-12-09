@@ -52,6 +52,7 @@ My name is **Pedro Amieba**, and I'm a **Junior Developer** from **Toledo**.
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white" />
 </p>
 
 ---
