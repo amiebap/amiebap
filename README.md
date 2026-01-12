@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-My name is **Pedro Amieba**, and I'm a **Junior Developer** from **Toledo**.
+My name is **Pedro Amieba**, and I'm a **Junior Developer** from **Illescas**.
 
 ---
 
