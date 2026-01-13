@@ -58,5 +58,5 @@ My name is **Pedro Amieba**, and I'm a **Junior Developer** from **Illescas**.
 ---
 
 ## 🔍 Current Interests
-I’m currently very interested in **low-level programming** and **game hacking**-**anti-cheating** fundamentals and develop.
+I’m currently very interested in **low-level programming** and **game hacking**-**anti-cheating** (fundamentals and develop).
 In general, I like the cat and mouse game, and excited to see what is going to be the final solution.
