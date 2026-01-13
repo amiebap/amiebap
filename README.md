@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-My name is **Pedro Amieba**, and I'm a **Junior Developer** from **Illescas**.
+My name is **Pedro Amieba**, I'm a **Student at Camilo José Cela University** and a **Junior Developer** from **Illescas**.
 
 ---
 
